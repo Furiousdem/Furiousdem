@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270">
+<defs><linearGradient id="bg"><stop stop-color="#070a11"/><stop offset="1" stop-color="#0c1220"/></linearGradient><linearGradient id="e"><stop stop-color="#00bfff"/><stop offset="1" stop-color="#ff3347"/></linearGradient><style>.u{font-family:Arial,sans-serif}.w{fill:#f4fbff}.m{fill:#8fa7bc}.b{fill:#00c8ff}.r{fill:#ff4054}</style></defs>
+<rect width="1100" height="270" rx="28" fill="url(#bg)"/><rect x="14" y="14" width="1072" height="242" rx="22" fill="none" stroke="url(#e)" stroke-width="2"/>
+<g class="u" text-anchor="middle"><text x="550" y="70" font-size="14" letter-spacing="2" class="r">THE NEXT CHAPTER HASN'T BEEN BUILT YET</text><text x="550" y="122" font-size="36" font-weight="800" class="w">LET'S BUILD IT.</text><text x="550" y="164" font-size="17" class="m">Portfolio • LinkedIn • GitHub • Email</text><line x1="275" y1="198" x2="825" y2="198" stroke="#22364f"/><text x="550" y="232" font-size="16" class="b">MAYUR PALASKAR — DATA • ANALYTICS • INTELLIGENCE</text></g>
+</svg>
